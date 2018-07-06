@@ -1,0 +1,7 @@
+[package]
+name = "enocean-lib"
+version = "0.1.0"
+authors = ["David <dev@dschwarz.codes>"]
+
+[dependencies]
+crc8 = "0.1.1"
