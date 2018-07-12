@@ -30,6 +30,7 @@ impl PacketType {
             PacketType::RadioErp2 => 0x0A,
             PacketType::Radio802154 => 0x10,
             PacketType::Command24 => 0x11,
+            _ => 0xFF
         };
     }
 

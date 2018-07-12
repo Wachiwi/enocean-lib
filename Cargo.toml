@@ -5,3 +5,4 @@ authors = ["David <dev@dschwarz.codes>"]
 
 [dependencies]
 crc8 = "0.1.1"
+serial = "0.4"
