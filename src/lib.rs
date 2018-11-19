@@ -1,3 +1,4 @@
+mod util;
 mod enocean;
 
 #[cfg(test)]
